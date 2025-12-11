@@ -86,8 +86,10 @@ requirements.txt              Conda 依赖快照
 3. [医疗领域知识图谱问答系统](https://github.com/zhihao-chen/QASystemOnMedicalGraph)
 4. [第23-25期 集成学习](https://github.com/datawhalechina/team-learning-data-mining/tree/master/EnsembleLearning)
 5. [第26期 图神经网络](https://github.com/datawhalechina/team-learning-nlp/tree/master/GNN)
-6. [第27期 吃瓜教程](https://www.bilibili.com/video/BV1Mh411e7VU)
-    - [机器学习（西瓜书）- 可直接点击下载](27_pumpkin_learning/attachments/机器学习(周志华).pdf ':ignore')
+6. 第 27 期 吃瓜课程（机器学习）
+    - [视频教程](https://www.bilibili.com/video/BV1Mh411e7VU)
+    - [南瓜书官方仓库](https://github.com/datawhalechina/pumpkin-book)
+    - [西瓜书  (机器学习-周志华）- 可直接点击下载](27_pumpkin_learning/attachments/机器学习(周志华).pdf ':ignore')
     - [南瓜书（Pumpkin Book）- 可直接点击下载](27_pumpkin_learning/attachments/pumpkin_book.pdf ':ignore')
 7. [第28期 Transformers NLP](https://github.com/datawhalechina/learn-nlp-with-transformers)
 8. [第29期 Matplotlib](https://github.com/datawhalechina/fantastic-matplotlib)
@@ -164,8 +166,7 @@ Tips ｜ 小贴士：
 
 1. **Install Obsidian ｜ 安装 Obsidian**：前往 <https://obsidian.md> 下载桌面版本。
 2. **Open vault ｜ 打开仓库**：在 Obsidian 中选择 "Open folder as vault"，指向本仓库根目录（推荐 `Deep-AI-Notes/`）。
-3. **Folder mapping ｜ 目录映射**：将 `docs/` 与 `notebook/` 加入左侧收藏，便于快速检索双语笔记。
-4. **Plugins ｜ 插件配置（节选）**
+3. **Plugins ｜ 插件配置（节选）**
    本仓库已经在 `.obsidian/plugins/` 中预配置了一些常用插件，克隆后可直接作为 Obsidian 工作区使用：
    - `latex-suite`：用于更友好的 LaTeX 渲染；
    - `Advanced Tables`：优化 Markdown 表格编辑体验；
